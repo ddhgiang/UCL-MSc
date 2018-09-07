@@ -15,5 +15,8 @@ This dissertation investigates the use of Feature Pyramid Networks (FPN) for gen
 
 The code was inherited from the Tensorflow Object Detection API. We acknowledge the Tensorflow team who has created and currently manages this tool.
 
-Please refer to their instruction of how to install the API: https://github.com/ddhgiang/models/blob/master/research/object_detection/g3doc/installation.md. The instruction for training and inference task is also given: https://github.com/ddhgiang/models/blob/master/research/object_detection/g3doc/running_locally.md
+Please refer to their instruction of how to install the API: https://github.com/ddhgiang/models/blob/master/research/object_detection/g3doc/installation.md. 
 
+The instruction for training and inference task is also given: https://github.com/ddhgiang/models/blob/master/research/object_detection/g3doc/running_locally.md
+
+# 
